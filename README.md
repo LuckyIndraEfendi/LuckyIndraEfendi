@@ -15,7 +15,7 @@
 ## Most Languages and Projects
 | Top Languages | Top Projects |
 |---------------|--------------|
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyIndraEfendi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Projects](https://github-readme-stats.vercel.app/api/pin/?username=LuckyIndraEfendi&repo=KyoukaLive&show_owner=true&theme=radical)](https://github.com/LuckyIndraEfendi/KyoukaLive)|
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyIndraEfendi&layout=compact&theme=radical)](https://github.com/LuckyIndraEfendi/github-readme-stats) | [![Top Projects](https://github-readme-stats.vercel.app/api/pin/?username=LuckyIndraEfendi&repo=KyoukaLive&show_owner=true&theme=radical)](https://github.com/LuckyIndraEfendi/KyoukaLive)|
 
 ## Current Streak
 <img src="https://camo.githubusercontent.com/655ce056c6554544d6096e03596bbd9242757d1ead2676749c7548eceee04865/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616268696a656574313431267468656d653d7261646963616c">
