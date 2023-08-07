@@ -1,7 +1,7 @@
 
 <!-- Replace 'IMAGE_URL' with your banner image URL -->
 <p align="center">
-  <img src="https://pfps.gg/assets/banners/3649-celia-claire.gif" alt="GitHub Banner" width="50%" >
+  <img src="https://pfps.gg/assets/banners/3649-celia-claire.gif" alt="GitHub Banner" width="100%" >
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lucky Indra Efendi</h1>
 <h3 align="center">👀 I’m interested in Web Development and Freelance from Indonesia</h3>
