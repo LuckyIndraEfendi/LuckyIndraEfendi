@@ -20,7 +20,7 @@
 ## Most Languages and Projects
 | Top Languages | Top Projects |
 |---------------|--------------|
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyIndraEfendi&layout=compact&theme=radical)](https://github.com/LuckyIndraEfendi/github-readme-stats) | [![Top Projects](https://github-readme-stats.vercel.app/api/pin/?username=LuckyIndraEfendi&repo=AnimeIndo-Rest-API&show_owner=true&theme=radical)](https://github.com/LuckyIndraEfendi/KyoukaLive)|
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyIndraEfendi&layout=compact&theme=radical)](https://github.com/LuckyIndraEfendi/github-readme-stats) | [![Top Projects](https://github-readme-stats.vercel.app/api/pin/?username=LuckyIndraEfendi&repo=AnimeIndo-Rest-API&show_owner=true&theme=radical)](https://github.com/LuckyIndraEfendi/AnimeIndo-Rest-API)|
 
 ## Current Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyIndraEfendi&show_icons=true&theme=radical">
