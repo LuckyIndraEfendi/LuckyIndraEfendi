@@ -7,7 +7,7 @@
 <h3 align="center">👀 I’m interested in Web Development and Freelance from Indonesia</h3>
 <br>
 
-- 🌱 I’m currently learning Golang and JavaScript.
+- 🌱 I’m currently learning Golang and TypeScript.
 - 💞️ I’m looking to collaborate on open-source projects related to Go Api and web development.
 - 📫 How to reach me: 
   - Email: [kimilbonchu@gmail.com](mailto:kimilbonchu@gmail.com)
