@@ -23,7 +23,7 @@
 | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyIndraEfendi&layout=compact&theme=radical)](https://github.com/LuckyIndraEfendi/github-readme-stats) | [![Top Projects](https://github-readme-stats.vercel.app/api/pin/?username=LuckyIndraEfendi&repo=AnimeIndo-Rest-API&show_owner=true&theme=radical)](https://github.com/LuckyIndraEfendi/AnimeIndo-Rest-API)|
 
 ## Current Streak
-<img src="https://streak-stats.demolab.com/?user=LuckyIndraEfendi&show_icons=true&theme=radical">
+<img src="[https://streak-stats.demolab.com/?user=LuckyIndraEfendi&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=LuckyIndraEfendi&show_icons=true&theme=radical)">
 
 <!---
 LuckyIndraEfendi/LuckyIndraEfendi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
