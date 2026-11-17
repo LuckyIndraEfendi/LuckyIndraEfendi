@@ -1,18 +1,17 @@
 <p align="center">
   <img
-    src="./assets/profile.webp"
+    src="./assets/profile-circle.svg"
     alt="Lucky's anime avatar"
     width="150"
     height="150"
-    style="border-radius:100%;object-fit:cover"
   />
 </p>
 <h1 align="center">👋 Lucky Indra Efendi</h1>
 <p align="center"><strong>💻 Software Engineer · Web Development & APIs</strong><br>📍 Based in Indonesia 🇮🇩</p>
 <p align="center">
-  <a href="mailto:kimilbonchu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="24" height="24" /> Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/lucky-indra-efendi-868223221/"><img src="https://skillicons.dev/icons?i=linkedin" alt="" width="24" height="24" /> LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/zwickyy_"><img src="https://skillicons.dev/icons?i=twitter" alt="" width="24" height="24" /> X / Twitter</a>
+  <a href="mailto:kimilbonchu@gmail.com"><img src="./assets/contact-email.svg" alt="Email" width="96" height="32" /></a>
+  <a href="https://www.linkedin.com/in/lucky-indra-efendi-868223221/"><img src="./assets/contact-linkedin.svg" alt="LinkedIn" width="112" height="32" /></a>
+  <a href="https://x.com/zwickyy_"><img src="./assets/contact-x.svg" alt="X / Twitter" width="116" height="32" /></a>
 </p>
 
 ---
