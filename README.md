@@ -7,12 +7,12 @@
     style="border-radius:100%;object-fit:cover"
   />
 </p>
-<h1 align="center">Lucky Indra Efendi</h1>
-<p align="center"><strong>Software Engineer · Web Development & APIs</strong><br>Based in Indonesia</p>
+<h1 align="center">👋 Lucky Indra Efendi</h1>
+<p align="center"><strong>💻 Software Engineer · Web Development & APIs</strong><br>📍 Based in Indonesia 🇮🇩</p>
 <p align="center">
-  <a href="mailto:kimilbonchu@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/lucky-indra-efendi-868223221/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/zwickyy_">X / Twitter</a>
+  <a href="mailto:kimilbonchu@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="24" height="24" /> Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/lucky-indra-efendi-868223221/"><img src="https://skillicons.dev/icons?i=linkedin" alt="" width="24" height="24" /> LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/zwickyy_"><img src="https://skillicons.dev/icons?i=twitter" alt="" width="24" height="24" /> X / Twitter</a>
 </p>
 
 ---
@@ -38,25 +38,13 @@ I'm a software engineer interested in building useful web applications and devel
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,swift,kotlin,dart,php,ruby,lua,r,scala,elixir,haskell,perl,html,css,bash,powershell&amp;perline=12&amp;theme=dark" />
-      <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,swift,kotlin,dart,php,ruby,lua,r,scala,elixir,haskell,perl,html,css,bash,powershell&amp;perline=12&amp;theme=light" alt="Languages: JavaScript, TypeScript, Python, Java, C, C++, C#, Go, Rust, Swift, Kotlin, Dart, PHP, Ruby, Lua, R, Scala, Elixir, Haskell, Perl, HTML, CSS, Bash, and PowerShell" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,swift,kotlin,dart,php,ruby,lua,r,scala,elixir,haskell,perl,html,css,bash,powershell&amp;perline=12&amp;theme=dark" alt="Languages: JavaScript, TypeScript, Python, Java, C, C++, C#, Go, Rust, Swift, Kotlin, Dart, PHP, Ruby, Lua, R, Scala, Elixir, Haskell, Perl, HTML, CSS, Bash, and PowerShell" />
     <br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,bun,deno,django,flask,fastapi,spring,laravel,rails,dotnet,flutter,electron&amp;perline=12&amp;theme=dark" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,bun,deno,django,flask,fastapi,spring,laravel,rails,dotnet,flutter,electron&amp;perline=12&amp;theme=light" alt="Frameworks and runtimes: React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Tailwind CSS, Bootstrap, Sass, Node.js, Express, NestJS, Bun, Deno, Django, Flask, FastAPI, Spring, Laravel, Rails, .NET, Flutter, and Electron" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,bun,deno,django,flask,fastapi,spring,laravel,rails,dotnet,flutter,electron&amp;perline=12&amp;theme=dark" alt="Frameworks and runtimes: React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Tailwind CSS, Bootstrap, Sass, Node.js, Express, NestJS, Bun, Deno, Django, Flask, FastAPI, Spring, Laravel, Rails, .NET, Flutter, and Electron" />
     <br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,cassandra,elasticsearch,supabase,firebase,graphql,prisma&amp;perline=12&amp;theme=dark" />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,cassandra,elasticsearch,supabase,firebase,graphql,prisma&amp;perline=12&amp;theme=light" alt="Databases and data tools: MySQL, PostgreSQL, SQLite, MongoDB, Redis, DynamoDB, Cassandra, Elasticsearch, Supabase, Firebase, GraphQL, and Prisma" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,cassandra,elasticsearch,supabase,firebase,graphql,prisma&amp;perline=12&amp;theme=dark" alt="Databases and data tools: MySQL, PostgreSQL, SQLite, MongoDB, Redis, DynamoDB, Cassandra, Elasticsearch, Supabase, Firebase, GraphQL, and Prisma" />
     <br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,nginx,linux,git,github,githubactions&amp;perline=12&amp;theme=dark" />
-      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,nginx,linux,git,github,githubactions&amp;perline=12&amp;theme=light" alt="Cloud, infrastructure, and tools: AWS, Google Cloud, Azure, Cloudflare, Docker, Kubernetes, Terraform, Nginx, Linux, Git, GitHub, and GitHub Actions" />
-    </picture>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,nginx,linux,git,github,githubactions&amp;perline=12&amp;theme=dark" alt="Cloud, infrastructure, and tools: AWS, Google Cloud, Azure, Cloudflare, Docker, Kubernetes, Terraform, Nginx, Linux, Git, GitHub, and GitHub Actions" />
   </a>
 </p>
 
