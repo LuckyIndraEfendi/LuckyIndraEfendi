@@ -1,0 +1,70 @@
+name: Update profile stats
+
+on:
+  push:
+    paths:
+      - .github/workflows/github-stats.yml
+  schedule:
+    - cron: "20 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-statistics
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PROFILE_BRANCH: ${{ github.event.repository.default_branch }}
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Download GitHub Stats
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 3 \
+            https://github.com/jstrieb/github-stats/releases/download/2.0.1/github-stats_x86_64-linux \
+            --output "$RUNNER_TEMP/github-stats"
+          echo "5e15e02803559cec5b5bdae4f202939846789c4cd3a34cfd24ee9ff13d6902c5  $RUNNER_TEMP/github-stats" | sha256sum --check
+          chmod +x "$RUNNER_TEMP/github-stats"
+
+      - name: Generate overview and language cards
+        shell: bash
+        env:
+          ACCESS_TOKEN: ${{ secrets.STATS_TOKEN || secrets.METRICS_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "$ACCESS_TOKEN" ]; then
+            echo "Set the METRICS_TOKEN or STATS_TOKEN repository secret first."
+            exit 1
+          fi
+          mkdir -p assets/stats
+          "$RUNNER_TEMP/github-stats" \
+            --exclude-private \
+            --max-retries 5 \
+            --overview-output-file assets/stats/overview.svg \
+            --languages-output-file assets/stats/languages.svg \
+            --silent
+
+      - name: Commit updated cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/overview.svg assets/stats/languages.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update profile statistics"
+          git pull --rebase origin "$PROFILE_BRANCH"
+          git push origin "HEAD:$PROFILE_BRANCH"

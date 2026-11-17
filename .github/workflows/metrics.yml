@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-metrics
+  group: profile-statistics
   cancel-in-progress: false
 
 jobs:
@@ -26,6 +26,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
+          extras_css: |
+            svg { color: #57606a; }
+            h1, h2, h3 { color: #0969da; }
+            @media (prefers-color-scheme: dark) {
+              svg { color: #c9d1d9; }
+              h1, h2, h3 { color: #58a6ff; }
+              .field svg { fill: #8b949e; }
+            }
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used

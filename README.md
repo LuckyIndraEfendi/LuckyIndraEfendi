@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./assets/profile.webp"
+    alt="Lucky's anime avatar"
+    width="150"
+    height="150"
+    style="border-radius:100%;object-fit:cover"
+  />
+</p>
 <h1 align="center">Lucky Indra Efendi</h1>
 <p align="center"><strong>Software Engineer · Web Development & APIs</strong><br>Based in Indonesia</p>
 <p align="center">
@@ -19,13 +28,35 @@ I'm a software engineer interested in building useful web applications and devel
 
 ### Technologies & tools
 
-**Web:** JavaScript · React · Node.js  
-**Infrastructure:** Docker · Linux · Git  
-**Currently exploring:** Go · TypeScript
+**Languages:** JavaScript · TypeScript · Python · Go · Rust · Java · C · C++ · C# · PHP · Ruby · Swift · Kotlin · Dart · Lua · R · Scala · Elixir · Haskell · Perl<br />
+**Frontend:** HTML · CSS · React · Next.js · Vue · Nuxt · Angular · Svelte · Astro · Tailwind CSS · Bootstrap · Sass<br />
+**Backend & runtimes:** Node.js · Express · NestJS · Bun · Deno · Django · Flask · FastAPI · Spring · Laravel · Rails · .NET<br />
+**Mobile & desktop:** Flutter · Electron<br />
+**Databases & data tools:** MySQL · PostgreSQL · SQLite · MongoDB · Redis · DynamoDB · Cassandra · Elasticsearch · Supabase · Firebase · GraphQL · Prisma<br />
+**Cloud & infrastructure:** AWS · Google Cloud · Azure · Cloudflare · Docker · Kubernetes · Terraform · Nginx · Linux<br />
+**Version control & automation:** Git · GitHub · GitHub Actions · Bash · PowerShell
 
 <p>
   <a href="https://github.com/tandpfun/skill-icons">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,docker,linux,git&perline=6" alt="JavaScript, React, Node.js, Docker, Linux, and Git" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,swift,kotlin,dart,php,ruby,lua,r,scala,elixir,haskell,perl,html,css,bash,powershell&amp;perline=12&amp;theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp,cs,go,rust,swift,kotlin,dart,php,ruby,lua,r,scala,elixir,haskell,perl,html,css,bash,powershell&amp;perline=12&amp;theme=light" alt="Languages: JavaScript, TypeScript, Python, Java, C, C++, C#, Go, Rust, Swift, Kotlin, Dart, PHP, Ruby, Lua, R, Scala, Elixir, Haskell, Perl, HTML, CSS, Bash, and PowerShell" />
+    </picture>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,bun,deno,django,flask,fastapi,spring,laravel,rails,dotnet,flutter,electron&amp;perline=12&amp;theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,sass,nodejs,express,nestjs,bun,deno,django,flask,fastapi,spring,laravel,rails,dotnet,flutter,electron&amp;perline=12&amp;theme=light" alt="Frameworks and runtimes: React, Next.js, Vue, Nuxt, Angular, Svelte, Astro, Tailwind CSS, Bootstrap, Sass, Node.js, Express, NestJS, Bun, Deno, Django, Flask, FastAPI, Spring, Laravel, Rails, .NET, Flutter, and Electron" />
+    </picture>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,cassandra,elasticsearch,supabase,firebase,graphql,prisma&amp;perline=12&amp;theme=dark" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,cassandra,elasticsearch,supabase,firebase,graphql,prisma&amp;perline=12&amp;theme=light" alt="Databases and data tools: MySQL, PostgreSQL, SQLite, MongoDB, Redis, DynamoDB, Cassandra, Elasticsearch, Supabase, Firebase, GraphQL, and Prisma" />
+    </picture>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,nginx,linux,git,github,githubactions&amp;perline=12&amp;theme=dark" />
+      <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,docker,kubernetes,terraform,nginx,linux,git,github,githubactions&amp;perline=12&amp;theme=light" alt="Cloud, infrastructure, and tools: AWS, Google Cloud, Azure, Cloudflare, Docker, Kubernetes, Terraform, Nginx, Linux, Git, GitHub, and GitHub Actions" />
+    </picture>
   </a>
 </p>
 
@@ -35,13 +66,25 @@ I'm a software engineer interested in building useful web applications and devel
 | --- | --- |
 | [AnimeIndo REST API V2](https://github.com/LuckyIndraEfendi/AnimeIndo-RestAPI-V2) | An anime discovery API built with Express and Cheerio. |
 | [KyoukaLive](https://github.com/LuckyIndraEfendi/KyoukaLive) | An anime web application built with React and Vite. |
+| [Mangazuna](https://github.com/LuckyIndraEfendi/Mangazuna) | A full-stack manga reader built with Next.js and Tailwind CSS, powered by MangazunaAPI. |
 
 ### Let's connect
 
 Interested in working together on a web application, API, or developer tool? Reach me at **[kimilbonchu@gmail.com](mailto:kimilbonchu@gmail.com)**.
 
-<!-- Enable after the Metrics workflow successfully generates github-metrics.svg:
 ### GitHub activity
 
-![GitHub activity and languages](./github-metrics.svg)
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/overview.svg#gh-dark-mode-only" />
+    <img src="./assets/stats/overview.svg#gh-light-mode-only" alt="GitHub statistics overview for Lucky Indra Efendi" width="360" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/languages.svg#gh-dark-mode-only" />
+    <img src="./assets/stats/languages.svg#gh-light-mode-only" alt="Most-used languages across contributed repositories" width="360" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub activity, community, repositories, and language metrics" width="480" />
+</p>
